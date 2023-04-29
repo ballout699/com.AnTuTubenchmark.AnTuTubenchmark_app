@@ -1,10 +1,10 @@
 {
 
  
-  "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "xxxxxx",
-  "applovin_native_id": "xxxxxx",
-  "applovin_rewarded_id": "xxxxxx",
+  "applovin_banner_id": "17462e3f6191d755",
+  "applovin_interstitial_id": "ec32403abeb17132	",
+  "applovin_native_id": "ac3ae21eaa80e77a",
+  "applovin_rewarded_id": "91b72216ffe03265",
   "max": true,
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -14,22 +14,22 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "00",
-  "Banner": "00",
-  "Native": "xxx",
-  "Rewarded": "00",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "main_inter": true,
-  "os_inter": false,
-  "gender_inter": false,
+  "os_inter": true,
+  "gender_inter": true,
   "age_inter": true,
-  "setup_inter": false,
+  "setup_inter": true,
   
-  "rate": false,
+  "rate": true,
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 1,
+  "native_rate": 1,
   
   "rating_exit_popup": true,
   
@@ -43,7 +43,7 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
+	 "image": "https://g.top4top.io/p_2675b60r51.png",
 	 "title": "xxxx",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
@@ -53,7 +53,7 @@
 
 	},
 	{
-	 "image": "xxxx",
+	 "image": "https://g.top4top.io/p_2675b60r51.png",
 	 "title": "xxxx",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
@@ -63,7 +63,7 @@
 	 
 	},
 	{
-	 "image": "xxxx",
+	 "image": "https://g.top4top.io/p_2675b60r51.png",
 	 "title": "xxxx",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
@@ -73,7 +73,7 @@
 
 	},
 	{
-	"image": "xxxx",
+	"image": "https://g.top4top.io/p_2675b60r51.png",
 	 "title": "xxxx",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
@@ -83,7 +83,7 @@
 
 	},
 	{
-	"image": "xxxx",
+	"image": "https://g.top4top.io/p_2675b60r51.png",
 	 "title": "xxxx",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
@@ -93,7 +93,7 @@
 
 	},
 	{
-	"image": "xxxx",
+	"image": "https://g.top4top.io/p_2675b60r51.png",
 	 "title": "xxxx",
 	 "text": "xxxx",
 	 "text_two": "xxxx",
